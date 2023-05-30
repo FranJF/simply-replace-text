@@ -1,0 +1,7 @@
+hola que tal {nombre}
+
+Cooky pets blablaa
+
+{despedida}
+
+{hola}
